@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bananano Studios - AI Movie Poster Generator</title>
+
+    <!-- SEO & Social Sharing Meta Tags -->
+    <meta name="description" content="Turn your portraits into stunning, cinematic movie posters with AI. Choose a genre, upload a photo, and let Bananano Studios create magic."/>
+    <meta property="og:title" content="Bananano Studios - AI Movie Poster Generator"/>
+    <meta property="og:description" content="Turn your portraits into stunning, cinematic movie posters with AI. Choose a genre, upload a photo, and let Bananano Studios create magic."/>
+    <meta property="og:image" content="/social-preview.png"/>
+    <meta property="og:url" content="https://[YOUR_DEPLOYMENT_URL_HERE]"/>
+    <meta property="og:type" content="website"/>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Space+Mono:wght@400;700&family=Staatliches&display=swap" rel="stylesheet">
+    <style>
+      :root {
+        --bg: #050505;              /* obsidian black */
+        --panel: #0b0b0b;
+        --muted: #1a1a1a;
+        --banana: #FFD400;
+        --banana-2: #FFEE58;
+        --accent-grad: linear-gradient(90deg, var(--banana), var(--banana-2));
+        --text: #F5F5F5;
+        --subtext: #bdbdbd;
+        --glass: rgba(255,255,255,0.02);
+      }
+      .banana-loader {
+        width: 64px;
+        height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 36px;
+        border-radius: 12px; /* Rounded square for neo-brutalist look */
+        background: var(--panel);
+        box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+        animation: spin-banana 1.2s linear infinite;
+        transform-origin: center;
+      }
+      @keyframes spin-banana {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .toast {
+        position: fixed;
+        top: 24px;
+        right: 24px;
+        background: var(--accent-grad);
+        color: #050505;
+        padding: 12px 18px;
+        border-radius: 10px;
+        font-weight: 700;
+        box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+        z-index: 9999;
+        opacity: 0;
+        transform: translateY(-8px);
+        transition: all .28s ease;
+      }
+      .toast.show {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      /* New Carousel and Banana Button Styles */
+      .genre-carousel {
+        display:flex;
+        gap:1rem;
+        overflow-x:auto;
+        scroll-snap-type:x mandatory;
+        -webkit-overflow-scrolling:touch;
+        scroll-behavior:smooth;
+        padding: 1rem 0.5rem;
+        scrollbar-width: thin;
+        scrollbar-color: #4a5568 transparent;
+      }
+      .genre-carousel::-webkit-scrollbar { height: 8px; }
+      .genre-carousel::-webkit-scrollbar-track { background: transparent; }
+      .genre-carousel::-webkit-scrollbar-thumb {
+        background-color: #4a5568;
+        border-radius: 10px;
+        border: 3px solid transparent;
+        background-clip: content-box;
+      }
+      .genre-card {
+        flex: 0 0 10rem; /* w-40 */
+        scroll-snap-align: center;
+        user-select: none;
+      }
+      
+      @keyframes banana-bounce {
+        0%, 100% { transform: scale(1) rotate(0deg); }
+        25% { transform: scale(.92) rotate(-8deg); }
+        75% { transform: scale(1.05) rotate(4deg); }
+      }
+      .banana-btn.banana-click {
+        animation: banana-bounce 0.4s ease-out;
+      }
+      
+      .confetti-piece { border-radius: 2px; }
+    </style>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+             fontFamily: {
+              sans: ['Inter', 'system-ui', 'sans-serif'],
+              mono: ['Space Mono', 'monospace'],
+              staatliches: ['Staatliches', 'cursive'],
+            },
+            colors: {
+              'banana-yellow': 'var(--banana)',
+              'banana-yellow-light': 'var(--banana-2)',
+            }
+          }
+        }
+      }
+    </script>
+    <script type="importmap">
+      {
+        "imports": {
+          "react/": "https://aistudiocdn.com/react@^19.1.1/",
+          "react": "https://aistudiocdn.com/react@^19.1.1",
+          "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+          "@google/genai": "https://aistudiocdn.com/@google/genai@^1.15.0"
+        }
+      }
+    </script>
+  <link rel="stylesheet" href="/index.css">
+</head>
+  <body style="background-color: var(--bg); color: var(--text);">
+    <div id="root"></div>
+    <div id="upload-toast" class="toast">By uploading you confirm you own rights to this image.</div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

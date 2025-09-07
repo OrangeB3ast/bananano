@@ -1,0 +1,674 @@
+[
+  {
+    "id": "action-thriller-001",
+    "title": "Action Thriller",
+    "genre_tags": ["action", "thriller", "explosions", "high-stakes"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into VISCERAL Action Thriller masterpiece. EXPLOSIVE Michael Bay-style cinematography with crushing blacks, searing highlights, and volcanic lens flares. Banana-yellow (#FFD400) BURNS through the composition. Neo-brutalist typography SLAMS the viewer. Title: {{overlay_text}}. Preserve facial identity. Seed={{seed}}.",
+      "medium": "Create a HEART-STOPPING Action Thriller poster from {{image_url}}. Visual style: Apocalyptic cinematography with thermonuclear lighting - think Blade Runner 2049 meets Mad Max Fury Road. Crushing chiaroscuro shadows with molten highlights that sear retinas. Color palette: Desaturated with banana-yellow (#FFD400) accents that SCREAM danger. Neo-brutalist design with razor-sharp typography. Preserve subject's face perfectly. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Denis Villeneuve meets Michael Bay - create a REVOLUTIONARY Action Thriller poster from {{image_url}}. VISUAL MANDATE: Hyperkinetic cinematography with thermonuclear contrast ratios. Lighting must be APOCALYPTIC - crushing Rembrandt shadows carved by volcanic rim light, lens flares that blind, god rays cutting through smoke. Color science: Desaturated base with banana-yellow (#FFD400) that BURNS like molten metal across key elements. Composition: Dynamic diagonal tension, subject positioned using golden ratio, negative space weaponized for impact. POST-PROCESSING: Heavy film grain (35mm Kodak Vision3), chromatic aberration on highlights, subtle motion blur for kinetic energy. Typography: Neo-brutalist, condensed sans-serif that CRUSHES the viewer with authority. Subject: Preserve facial identity EXACTLY but amplify intensity - think Charlize Theron in Mad Max. Background: Industrial hellscape or urban warfare. Text: {{overlay_text}}. OUTPUT: Cinema-grade poster that makes viewers' pupils dilate with adrenaline. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Bebas Neue", "body": "Roboto Condensed" },
+    "palette": { "primary": "#E50914", "accent": "#FFD400", "background": "#0A0A0A", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "impact-top", "title_position": "top-center", "overlay_style": "crushing-impact" },
+      { "layout_id": "explosive-bottom", "title_position": "bottom-center", "overlay_style": "explosive-treatment" },
+      { "layout_id": "diagonal-slash", "title_position": "diagonal", "overlay_style": "kinetic-angle" }
+    ],
+    "seed_examples": [2501, 2502, 2503],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=101",
+    "description": "Thermonuclear action that burns retinas and stops hearts."
+  },
+  {
+    "id": "horror-supernatural-001",
+    "title": "Supernatural Horror",
+    "genre_tags": ["horror", "scary", "supernatural", "ghost"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into NIGHTMARE FUEL. Lovecraftian atmosphere with suffocating darkness, sickly banana-yellow (#FFD400) that writhes like infection. Chiaroscuro lighting from hell. Neo-brutalist typography bleeds fear. Title: {{overlay_text}}. Preserve face but twist with dread. Seed={{seed}}.",
+      "medium": "Create PURE TERROR from {{image_url}}. Visual DNA: Caravaggio meets David Lynch - claustrophobic chiaroscuro with reality-bending shadows. Desaturated palette drained of life, banana-yellow (#FFD400) infections spreading through darkness. Subject's face preserved but haunted by cosmic dread. Atmosphere thick enough to choke on. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Guillermo del Toro's nightmare architect - forge EXISTENTIAL HORROR from {{image_url}}. VISUAL MANIFESTO: Lovecraftian atmosphere that suffocates reality. Lighting: Caravaggio-level chiaroscuro - darkness so complete it has weight, broken only by sickly banana-yellow (#FFD400) that creeps like infection. Color theory: Desaturated to corpse-pale, with yellow as disease spreading through monochrome. Composition: Asymmetrical unease, subject positioned to create psychological imbalance, negative space pregnant with unseen horrors. POST-PROCESSING: Heavy grain like decaying film stock, subtle chromatic aberration, vignetting that closes like a coffin. Typography: Distressed serif that bleeds ink, letters seem to writhe. Subject: Preserve facial identity but inject existential dread - thousand-yard stare into cosmic void. Atmosphere: Fog thick as grave dirt, shadows with Euclidean impossibility. Text: {{overlay_text}}. OUTPUT: Poster that makes viewers check behind them. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Creepster", "body": "Special Elite" },
+    "palette": { "primary": "#2E1065", "accent": "#FFD400", "background": "#000000", "text": "#C0C0C0" },
+    "layout_presets": [
+      { "layout_id": "creeping-fade", "title_position": "bottom-center", "overlay_style": "infection-spread" },
+      { "layout_id": "bleeding-top", "title_position": "top-center", "overlay_style": "blood-drip" },
+      { "layout_id": "whisper-corner", "title_position": "corner-creep", "overlay_style": "subtle-dread" }
+    ],
+    "seed_examples": [666, 1313, 2024],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=404",
+    "description": "Cosmic horror that rewrites reality and sanity."
+  },
+  {
+    "id": "scifi-cyberpunk-001",
+    "title": "Cyberpunk Noir",
+    "genre_tags": ["sci-fi", "cyberpunk", "noir", "dystopian", "neon"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into CYBERPUNK REVELATION. Blade Runner 2049 cinematography with NEON that cauterizes reality. Rain-slicked surfaces reflect banana-yellow (#FFD400) holograms. Neo-brutalist HUD aesthetic. Title: {{overlay_text}}. Preserve face, add subtle cybernetics. Seed={{seed}}.",
+      "medium": "Forge CYBERPUNK TRANSCENDENCE from {{image_url}}. Visual philosophy: Denis Villeneuve meets Ridley Scott in neon baptism. Hypercontrast lighting carves subject from holographic rain. Color alchemy: Desaturated base with banana-yellow (#FFD400) and magenta that SCREAMS through darkness. Neo-brutalist interface design. Subject enhanced with chrome whispers. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are the fusion of Denis Villeneuve and Syd Mead - architect CYBERPUNK NIRVANA from {{image_url}}. VISUAL GOSPEL: Hyperkinetic future-noir cinematography that rewrites light itself. Lighting: Blade Runner 2049's volcanic contrast - crushing blacks punctured by neon that burns like digital fire, banana-yellow (#FFD400) and magenta creating chromatic warfare. Rain creates infinite light fractals on chrome surfaces. Color science: Teal-orange base with radioactive yellow accents, split-toning that makes shadows breathe. Composition: Vertical neon canyons dwarf humanity, subject framed by architectural brutalism, leading lines converge on augmented eyes. POST-PROCESSING: Anamorphic lens flares, subtle barrel distortion, chromatic aberration on highlights, digital grain overlay. Typography: Angular neo-brutalist with LED underglow, kerning tight enough to cut. Subject: Preserve face PERFECTLY but add chrome neural ports, LED-traced veins, eyes reflecting data streams. Environment: Megacity drowning in advertising holograms, acid rain on glass towers. Text: {{overlay_text}}. OUTPUT: Visual heroin that addicts pupils to pure cybernetic beauty. Seed={{seed}}.",
+      "epic_cosplay": "CYBERNETIC METAMORPHOSIS of {{image_url}}. Create production-grade cosplay: Full-body augmentation with fiber-optic neural interfaces, chrome exoskeleton joints, LED matrix clothing that pulses with data. Banana-yellow (#FFD400) light threads through costume like digital blood. Environment: Neon-drowned Tokyo 2177. Face MUST match source EXACTLY. Text: {{overlay_text}}. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Orbitron", "body": "Share Tech Mono" },
+    "palette": { "primary": "#00D4FF", "accent": "#FFD400", "background": "#000510", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "neon-burn", "title_position": "bottom-center", "overlay_style": "holographic-burn" },
+      { "layout_id": "hud-interface", "title_position": "augmented-overlay", "overlay_style": "neural-link-hud" },
+      { "layout_id": "data-stream", "title_position": "vertical-flow", "overlay_style": "matrix-cascade" }
+    ],
+    "seed_examples": [2049, 2077, 2177],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=707",
+    "description": "Digital transcendence through neon-baptized chrome futures."
+  },
+  {
+    "id": "romance-drama-001",
+    "title": "Romantic Drama",
+    "genre_tags": ["romance", "love", "drama", "emotional"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into EMOTIONAL CINEMA. Terrence Malick golden hour that liquefies time. Soft banana-yellow (#FFD400) caresses like sunset honey. Ethereal rim light creates angelic halos. Neo-brutalist serif whispers poetry. Title: {{overlay_text}}. Preserve intimate expression. Seed={{seed}}.",
+      "medium": "Create HEART-MELTING romance from {{image_url}}. Visual poetry: Emmanuel Lubezki's liquid gold cinematography meets dreamy soft focus. Color palette drowns in warm honey, banana-yellow (#FFD400) flows like golden hour essence. Subject bathed in lover's glow, every detail speaks intimacy. Elegant typography breathes tenderness. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Emmanuel Lubezki channeling pure emotional truth - create TRANSCENDENT ROMANCE from {{image_url}}. VISUAL LOVE LETTER: Cinematography that makes light itself fall in love. Lighting: Golden hour extended into eternity - soft, wraparound illumination that makes skin luminous, banana-yellow (#FFD400) suffusing frame like liquid honey. Lens flares become love itself made visible. Color grading: Warm-toned paradise, peachy skin tones, amber shadows that protect rather than conceal. Composition: Rule of thirds guides eyes to emotional epicenter, shallow depth of field isolates intimacy from world's chaos. POST-PROCESSING: Pro-Mist filter softness, gentle grain like film photographs from memory, subtle bloom on highlights. Typography: Elegant serif that flows like handwritten letters, spacing breathes with tenderness. Subject: Preserve facial identity with reverent precision, capture the micro-expression of someone lost in love. Environment: Natural beauty - flower fields, coastal sunsets, vintage rooms with window light. Text: {{overlay_text}}. OUTPUT: Visual oxytocin that makes hearts physically ache with beauty. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Playfair Display", "body": "Lora" },
+    "palette": { "primary": "#FF6B9D", "accent": "#FFD400", "background": "#1F0A0A", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "whispered-center", "title_position": "intimate-center", "overlay_style": "handwritten-love" },
+      { "layout_id": "golden-bottom", "title_position": "sunset-bottom", "overlay_style": "elegant-serif" },
+      { "layout_id": "dreamy-float", "title_position": "floating-poetry", "overlay_style": "ethereal-script" }
+    ],
+    "seed_examples": [1436, 1984, 2023],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=222",
+    "description": "Visual poetry that makes hearts physically ache with beauty."
+  },
+  {
+    "id": "comedy-buddy-001",
+    "title": "Buddy Comedy",
+    "genre_tags": ["comedy", "funny", "laugh", "buddy-film"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into PURE JOY. Edgar Wright kinetic energy with colors that EXPLODE happiness. Banana-yellow (#FFD400) SCREAMS fun across hypercontrast canvas. Neo-brutalist typography BOUNCES with manic energy. Title: {{overlay_text}}. Amplify comedic expression to 11. Seed={{seed}}.",
+      "medium": "Create COMEDIC EUPHORIA from {{image_url}}. Visual insanity: Edgar Wright meets Wes Anderson in color-drunk celebration. Hyperkinetic lighting with shadows that laugh, banana-yellow (#FFD400) dominates like pure serotonin. Subject's expression cranked to comedic perfection, every pixel radiates infectious joy. Typography bounces off walls. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Edgar Wright injected with pure comedic cocaine - engineer MAXIMUM HILARITY from {{image_url}}. VISUAL COMEDY MANIFESTO: Hyperkinetic cinematography that makes colors literally bounce. Lighting: High-key shadowless perfection, every surface reflects joy, banana-yellow (#FFD400) dominates like concentrated happiness in liquid form. Zero film grain - crystal clarity that makes every comedic detail pop. Color theory: Saturated to the point of visual sugar rush, complementary colors clash in beautiful harmony. Composition: Centered confidence with room for comedic breathing, symmetry that feels playfully intentional. POST-PROCESSING: Razor-sharp detail, slight wide-angle distortion for caricature effect, subtle color separation that makes elements pop from background. Typography: Chunky, bouncy display fonts that seem to vibrate with laughter, kerning loose enough for comedic timing. Subject: Preserve facial identity but amplify comedic expression - think Chris Pratt's perfectly timed smirk or Amy Poehler's infectious grin. Environment: Bright, optimistic spaces that suggest adventure and friendship. Text: {{overlay_text}}. OUTPUT: Visual caffeine that makes viewers involuntarily smile before they even read the title. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Fredoka One", "body": "Nunito" },
+    "palette": { "primary": "#FF5722", "accent": "#FFD400", "background": "#000A1A", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "bouncy-top", "title_position": "energetic-top", "overlay_style": "rubber-ball-bounce" },
+      { "layout_id": "center-explosion", "title_position": "joy-center", "overlay_style": "confetti-burst" },
+      { "layout_id": "sideways-silly", "title_position": "tilted-fun", "overlay_style": "playground-energy" }
+    ],
+    "seed_examples": [1337, 2020, 4444],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=555",
+    "description": "Visual caffeine that triggers involuntary smiling and infectious laughter."
+  },
+  {
+    "id": "fantasy-epic-001",
+    "title": "Epic Fantasy",
+    "genre_tags": ["fantasy", "epic", "magic", "adventure", "sword-and-sorcery"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into MYTHIC LEGEND. Peter Jackson's Middle-earth cinematography with god rays that birth legends. Banana-yellow (#FFD400) blazes like Excalibur's fire. Neo-brutalist runes carved in stone. Title: {{overlay_text}}. Preserve face, forge legendary armor. Seed={{seed}}.",
+      "medium": "Create EPIC MYTHOLOGY from {{image_url}}. Visual sorcery: Roger Deakins meets conceptual fantasy art - god rays pierce ancient forests, magical particles dance in banana-yellow (#FFD400) auroras. Subject becomes the chosen one, armor gleaming with destiny. Mystical atmosphere thick with ancient power. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Peter Jackson channeling J.R.R. Tolkien's visual soul - forge MYTHOLOGICAL TRANSCENDENCE from {{image_url}}. VISUAL LEGENDARIUM: Epic fantasy cinematography that makes reality bow to myth. Lighting: Divine god rays pierce primordial mists, banana-yellow (#FFD400) radiates like concentrated starlight, rim lighting creates halos worthy of Elrond. Magical particles float like golden fireflies, shadows hold ancient secrets. Color palette: Rich earth tones with supernatural accents, desaturated greens and browns grounded by ethereal gold. Composition: Hero positioned against impossible vistas - floating islands, ancient ruins, dragon-haunted peaks. Depth of field isolates destiny from mortal world. POST-PROCESSING: Cinematic grain like ancient parchment, subtle bloom on magical elements, atmospheric perspective that suggests infinite realms. Typography: Carved stone runes with metallic beveling, letterforms that whisper of forgotten alphabets. Subject: Preserve facial identity with sacred precision, adorn in ornate armor/robes with intricate Celtic knotwork, weapons that glow with inner fire. Environment: Realms that exist only in dreams - crystal caves, floating castles, forests where time moves differently. Text: {{overlay_text}}. OUTPUT: Portal to worlds that make believers of cynics. Seed={{seed}}.",
+      "epic_cosplay": "LEGENDARY TRANSFORMATION of {{image_url}}. Hyperrealistic fantasy cosplay: Hand-forged chainmail, leather weathered by countless quests, sword that seems to pulse with ancient magic. Every rivet, every thread tells epic stories. Banana-yellow (#FFD400) runs through runes. Face MATCHES source exactly. Text: {{overlay_text}}. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Cinzel Decorative", "body": "Lora" },
+    "palette": { "primary": "#8BC34A", "accent": "#FFD400", "background": "#0D0C0A", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "runic-center", "title_position": "mystical-center", "overlay_style": "carved-stone-runes" },
+      { "layout_id": "ancient-bottom", "title_position": "legend-bottom", "overlay_style": "illuminated-manuscript" },
+      { "layout_id": "floating-magic", "title_position": "ethereal-float", "overlay_style": "magical-particles" }
+    ],
+    "seed_examples": [1977, 2001, 3019],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1111",
+    "description": "Mythological portals that transform viewers into believers of impossible worlds."
+  },
+  {
+    "id": "western-spaghetti-001",
+    "title": "Spaghetti Western",
+    "genre_tags": ["western", "cowboy", "classic", "spaghetti-western"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into LEONE'S VISION. Extreme close-up with shadows that could kill. Sun-baked banana-yellow (#FFD400) burns like high noon justice. Neo-brutalist serif carved by desert wind. Title: {{overlay_text}}. Preserve steely gaze, add weathered wisdom. Seed={{seed}}.",
+      "medium": "Create ICONIC WESTERN from {{image_url}}. Visual gunslinger: Sergio Leone's extreme cinematography meets Ennio Morricone's sonic landscape made visible. Crushing close-up with shadows carved by merciless sun, banana-yellow (#FFD400) blazes like gold fever. Subject becomes legend of the frontier. Gritty as desert dust. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Sergio Leone reborn with Clint Eastwood's soul - create WESTERN MYTHOLOGY from {{image_url}}. VISUAL SHOWDOWN: Extreme close-up cinematography that makes eyes into weapons. Lighting: Merciless desert sun creates shadows sharp enough to cut, banana-yellow (#FFD400) burns like fool's gold discovered in cursed mines. High-contrast chiaroscuro makes every line in face tell stories of justice and vengeance. Color theory: Desaturated earth tones - dust brown, dried blood red, scorched amber - with yellow striking like lightning. Composition: Extreme macro on eyes that have seen too much, negative space suggests endless frontier. POST-PROCESSING: Heavy 16mm grain like dust storms, high contrast that crushes midtones, vignetting like peering through rifle scope. Typography: Hand-carved wooden signs weathered by decades of desert storms, letterforms that creak like saloon doors. Subject: Preserve facial identity with biblical reverence, add sun damage and squint lines of someone who stares down the Devil daily, stubble like tumbleweeds, hat brim casting shadows of destiny. Environment: Landscapes that God abandoned - ghost towns, endless dunes, mesas that touch hostile skies. Text: {{overlay_text}}. OUTPUT: Poster that makes viewers instinctively reach for their gun belt. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Rye", "body": "Roboto Slab" },
+    "palette": { "primary": "#BF360C", "accent": "#FFD400", "background": "#1A120B", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "sun-scorched", "title_position": "desert-bottom", "overlay_style": "weathered-wood-type" },
+      { "layout_id": "shadow-split", "title_position": "high-noon-split", "overlay_style": "bullet-hole-text" },
+      { "layout_id": "wanted-poster", "title_position": "bounty-center", "overlay_style": "sheriff-stencil" }
+    ],
+    "seed_examples": [1966, 1968, 1969],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1881",
+    "description": "Desert mythology that makes viewers reach for gun belts they don't own."
+  },
+  {
+    "id": "vaporwave-aesthetic-001",
+    "title": "Vaporwave Synthwave",
+    "genre_tags": ["vaporwave", "synthwave", "retro", "80s", "neon"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into VAPORWAVE NIRVANA. 80s aesthetic that melts reality into neon dreams. Banana-yellow (#FFD400) pulses through pink-purple gradients like digital sunsets. Neo-brutalist VHS typography glitches through time. Title: {{overlay_text}}. Preserve face in retro paradise. Seed={{seed}}.",
+      "medium": "Create SYNTHWAVE TRANSCENDENCE from {{image_url}}. Visual time machine: Blade Runner meets Miami Vice in chromatic orgasm. Grid horizons dissolve into banana-yellow (#FFD400) and magenta supernovas. Subject becomes avatar of digital nostalgia, floating in geometric paradise. Scanlines breathe with synthetic life. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are digital shaman of the 1980s metaverse - architect VAPORWAVE ENLIGHTENMENT from {{image_url}}. AESTHETIC COMMANDMENTS: Retro-futurism that makes nostalgia tangible. Visual language: Infinite geometric grids stretching toward digital horizons, banana-yellow (#FFD400) and hot pink creating chromatic ecstasy against deep purple void. Lighting: Neon underglow emanates from geometric primitives, everything bathes in CRT monitor warmth. Color palette: Classic vaporwave trinity - cyan, magenta, yellow with purple depths, gradients flow like liquid time. Composition: Subject floating in mathematical perfection, surrounded by wireframe pyramids and chrome spheres that reflect impossible sunsets. POST-PROCESSING: VHS artifacts and scanlines, slight chromatic separation, digital grain that pulses with synthetic heartbeat, gaussian blur creates dreamy atmosphere. Typography: Retro computer fonts with chrome beveling, letters float in 3D space with perspective shadows. Subject: Preserve facial identity while integrating into digital landscape - perhaps as marble statue or chrome reflection. Environment: Infinite grid planes, floating geometric shapes, palm trees made of neon, Roman columns in cyberspace. Text: {{overlay_text}}. OUTPUT: Time portal to futures that never were but should have been. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "VT323", "body": "Share Tech Mono" },
+    "palette": { "primary": "#FF006E", "accent": "#FFD400", "background": "#240046", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "grid-horizon", "title_position": "infinite-horizon", "overlay_style": "chrome-3d-extrude" },
+      { "layout_id": "neon-glow", "title_position": "pulsing-center", "overlay_style": "underglow-neon" },
+      { "layout_id": "vhs-static", "title_position": "glitch-overlay", "overlay_style": "digital-corruption" }
+    ],
+    "seed_examples": [1985, 1987, 1991],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1988",
+    "description": "Digital time portals to neon-soaked futures that exist only in synthetic dreams."
+  },
+  {
+    "id": "documentary-realism-001",
+    "title": "Documentary Realism",
+    "genre_tags": ["documentary", "realism", "biography", "truth"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into TRUTH INCARNATE. Frederick Wiseman's unblinking honesty with light that reveals souls. Banana-yellow (#FFD400) highlights essential humanity. Neo-brutalist typography speaks with authority of lived experience. Title: {{overlay_text}}. Preserve authentic moment. Seed={{seed}}.",
+      "medium": "Create DOCUMENTARY POWER from {{image_url}}. Visual journalism: Errol Morris meets Gordon Parks - unflinching realism with light that cuts through pretense. Natural lighting reveals character's core truth, banana-yellow (#FFD400) accents the human story that matters. Clean typography respects subject's dignity. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Errol Morris armed with Gordon Parks' empathy - create DOCUMENTARY REVELATION from {{image_url}}. TRUTH MANIFESTO: Visual journalism that makes viewers confront reality without flinching. Lighting: Natural, honest illumination - window light, available light, nothing artificial or manipulated. Every shadow tells truth, banana-yellow (#FFD400) used sparingly to highlight crucial details that reveal character. Color grading: Realistic, perhaps slightly desaturated to suggest gravitas, skin tones accurate and respectful. Composition: Direct, unflinching eye contact when possible, respect for subject's space and dignity, negative space allows story to breathe. POST-PROCESSING: Minimal manipulation - subtle grain to suggest film authenticity, high detail to capture every line of lived experience. Typography: Clean, modern sans-serif with weight that commands respect, no flourishes that distract from human story. Subject: Preserve facial identity with absolute fidelity - this is about real people and real stories. Expression should be natural, unguarded, revealing inner truth. Environment: Real locations that contextualize the story - homes, workplaces, community spaces. Text: {{overlay_text}}. OUTPUT: Poster that makes viewers care about stories they've never heard. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Roboto Condensed", "body": "Source Sans Pro" },
+    "palette": { "primary": "#424242", "accent": "#FFD400", "background": "#000000", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "truth-center", "title_position": "honest-center", "overlay_style": "clean-impact" },
+      { "layout_id": "story-bottom", "title_position": "narrative-bottom", "overlay_style": "journalism-bold" },
+      { "layout_id": "voice-top", "title_position": "testimony-top", "overlay_style": "witness-statement" }
+    ],
+    "seed_examples": [1963, 1977, 2020],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=2020",
+    "description": "Unblinking truth that makes viewers confront stories that matter."
+  },
+  {
+    "id": "animation-family-001",
+    "title": "Family Animation",
+    "genre_tags": ["animation", "family", "kids", "adventure", "cartoon"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into PIXAR MAGIC. Hyperrealistic 3D rendering with colors that make children gasp. Banana-yellow (#FFD400) radiates pure joy through every pixel. Neo-brutalist typography bounces with cartoon physics. Title: {{overlay_text}}. Preserve likeness in animated perfection. Seed={{seed}}.",
+      "medium": "Create ANIMATED WONDER from {{image_url}}. Visual enchantment: Pixar's emotional photorealism meets Studio Ghibli's heart-melting artistry. Hyperrealistic 3D with lighting that makes everything feel magical, banana-yellow (#FFD400) glows like bottled sunshine. Subject becomes beloved animated character with perfect facial translation. Typography dances with life. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are John Lasseter's emotional genius merged with Hayao Miyazaki's soul - create ANIMATED TRANSCENDENCE from {{image_url}}. ANIMATION MANIFESTO: Hyperrealistic 3D rendering that makes reality jealous of cartoons. Lighting: Perfect studio illumination with soft fills, rim lights that create character silhouettes, banana-yellow (#FFD400) used as key light source creating warmth that makes hearts melt. Color palette: Saturated perfection with emotional color theory - every hue chosen to maximize joy and wonder. Composition: Character-focused with dynamic poses that suggest movement and personality, background detail that rewards repeated viewing. POST-PROCESSING: Pixar-level subsurface scattering on skin, perfect hair/fur dynamics, atmospheric depth that creates believable 3D space. Typography: Playful display fonts that seem to bounce off screen, colors that complement character design. Subject: Preserve facial identity with loving precision while translating into animated perfection - maintain recognizable features while adding cartoon expressiveness. Environment: Fantastical worlds that spark imagination - enchanted forests, floating islands, colorful villages. Text: {{overlay_text}}. OUTPUT: Animation so beautiful that adults forget they're watching a cartoon. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Fredoka One", "body": "Nunito Sans" },
+    "palette": { "primary": "#4CAF50", "accent": "#FFD400", "background": "#001122", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "magical-center", "title_position": "wonder-center", "overlay_style": "bouncy-cartoon" },
+      { "layout_id": "adventure-bottom", "title_position": "journey-bottom", "overlay_style": "playful-script" },
+      { "layout_id": "floating-joy", "title_position": "levitating-magic", "overlay_style": "sparkle-effect" }
+    ],
+    "seed_examples": [1995, 2001, 2010],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=3333",
+    "description": "Animated magic so beautiful that reality becomes jealous of cartoons."
+  },
+  {
+    "id": "dark-academia-001",
+    "title": "Dark Academia Gothic",
+    "genre_tags": ["dark-academia", "gothic", "intellectual", "vintage", "scholarly"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into DARK ACADEMIA DIVINITY. Caravaggio meets library mysticism with shadows that whisper ancient secrets. Banana-yellow (#FFD400) glows like forbidden manuscript illumination. Neo-Gothic typography carved in stone. Title: {{overlay_text}}. Preserve scholarly intensity. Seed={{seed}}.",
+      "medium": "Create INTELLECTUAL NOIR from {{image_url}}. Visual philosophy: Roger Deakins cinematography meets Renaissance painting in hallowed halls. Chiaroscuro lighting through Gothic windows, banana-yellow (#FFD400) like candlelight on leather-bound tomes. Subject becomes keeper of forbidden knowledge. Typography whispers Latin elegance. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Gregory Crewdson channeling Caravaggio's soul in Oxford's shadow-drunk libraries - forge ACADEMIC TRANSCENDENCE from {{image_url}}. SCHOLARLY MANIFESTO: Hyperrealistic cinematography that makes knowledge physically tangible. Lighting: Cathedral chiaroscuro - divine light streams through Gothic arches, banana-yellow (#FFD400) radiates like illuminated manuscripts, casting shadows deep enough to hide centuries of secrets. Dust motes dance like floating wisdom. Color palette: Rich burgundy, forest green, aged leather brown with gold leaf accents. Composition: Subject positioned among towering bookshelves, surrounded by ancient texts and astronomical instruments. POST-PROCESSING: Renaissance painting depth, subtle film grain like aged parchment, warm practical lighting that suggests oil lamps and fireplaces. Typography: Blackletter fonts with illuminated capitals, letterforms that echo medieval manuscripts. Subject: Preserve facial identity with reverent precision, dressed in vintage tweeds and academic robes, expression suggesting profound intellectual depth. Environment: Grand libraries, Gothic universities, candlelit studies with globes and telescopes. Text: {{overlay_text}}. OUTPUT: Poster that makes viewers crave leather-bound books and whispered Latin. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "UnifrakturMaguntia", "body": "Crimson Text" },
+    "palette": { "primary": "#8B0000", "accent": "#FFD400", "background": "#0F0F0F", "text": "#F5F5DC" },
+    "layout_presets": [
+      { "layout_id": "manuscript", "title_position": "illuminated-top", "overlay_style": "gothic-script" },
+      { "layout_id": "library-shadow", "title_position": "scholarly-bottom", "overlay_style": "leather-bound" }
+    ],
+    "seed_examples": [1692, 1847, 1922],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1692",
+    "description": "Intellectual mysticism that transforms scholars into Gothic deities of forbidden knowledge."
+  },
+  {
+    "id": "afrofuturism-001",
+    "title": "Afrofuturism Epic",
+    "genre_tags": ["afrofuturism", "sci-fi", "cultural", "futuristic", "empowerment"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into AFROFUTURISTIC ROYALTY. Ryan Coogler's Wakanda cinematography with technology that sings ancient songs. Banana-yellow (#FFD400) pulses through vibranium circuits. Neo-African typography blazes with royal authority. Title: {{overlay_text}}. Preserve cultural essence, amplify futuristic majesty. Seed={{seed}}.",
+      "medium": "Create WAKANDA TRANSCENDENCE from {{image_url}}. Visual ancestry: Ryan Coogler meets Ava DuVernay in technological spirituality. Hyperadvanced lighting through crystalline structures, banana-yellow (#FFD400) flows like liquid gold through African-inspired circuitry. Subject becomes bridge between ancestors and infinite futures. Sacred geometry meets cutting-edge design. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Ryan Coogler channeling ancestral wisdom through Ava DuVernay's lens - architect AFROFUTURISTIC DIVINITY from {{image_url}}. WAKANDA MANIFESTO: Cinematography that merges spiritual ancestry with technological transcendence. Lighting: Sacred geometry projected through crystalline surfaces, banana-yellow (#FFD400) and royal purple create chromatic sovereignty, bioluminescent patterns pulse with ancestral heartbeats. Advanced holographic displays show constellation maps and DNA helixes. Color science: Rich earth tones elevated by chrome and gold, traditional patterns integrated into quantum interfaces. Composition: Subject crowned with technological regalia that echoes traditional African artistry, positioned against impossible architecture that grows like organic fractals. POST-PROCESSING: Hyperrealistic detail that makes advanced tech feel spiritually grounded, subtle energy emanations from technological elements, atmospheric depth suggests infinite possibility. Typography: Custom letterforms that merge ancient scripts with futuristic interfaces, characters that seem carved from vibranium itself. Subject: Preserve facial identity with absolute reverence, adorned in clothing that seamlessly blends cultural heritage with advanced technology - think ceremonial armor powered by quantum mechanics. Environment: Cities that grow like great trees, technology indistinguishable from natural phenomena, spaces where ancestors commune with AI. Text: {{overlay_text}}. OUTPUT: Portal to futures where technology serves the soul and tradition powers the cosmos. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Exo 2", "body": "Ubuntu" },
+    "palette": { "primary": "#663399", "accent": "#FFD400", "background": "#000000", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "royal-tech", "title_position": "sovereign-center", "overlay_style": "vibranium-glow" },
+      { "layout_id": "ancestral-future", "title_position": "heritage-bottom", "overlay_style": "quantum-script" }
+    ],
+    "seed_examples": [2018, 2022, 2030],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=2018",
+    "description": "Technological spirituality that bridges ancestral wisdom with infinite cosmic possibility."
+  },
+  {
+    "id": "dreamcore-liminal-001",
+    "title": "Dreamcore Liminal",
+    "genre_tags": ["dreamcore", "liminal", "surreal", "nostalgic", "uncanny"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into LIMINAL REVERIE. David Lynch meets childhood memory corruption with spaces that exist between waking and dreams. Banana-yellow (#FFD400) flickers like broken fluorescent nostalgia. Typography melts at the edges. Title: {{overlay_text}}. Preserve face in uncanny valley perfection. Seed={{seed}}.",
+      "medium": "Create NOSTALGIC NIGHTMARE from {{image_url}}. Visual psychology: Charlie Kaufman's mind-bending cinematography in spaces that shouldn't exist. Overexposed lighting creates memory bleeds, banana-yellow (#FFD400) pulses through carpet patterns and pool tiles. Subject lost in infinite hallways of childhood trauma. Reality glitches at the seams. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are David Lynch's fever dream architect collaborating with Charlie Kaufman's memory thief - create LIMINAL CONSCIOUSNESS from {{image_url}}. DREAMSPACE MANIFESTO: Cinematography that makes the familiar terrifyingly wrong. Lighting: Fluorescent overexposure that burns retinal memories, banana-yellow (#FFD400) contaminating everything like infection spreading through nostalgic spaces - shopping malls at 3am, empty pool complexes, infinite office buildings. Color grading: Oversaturated childhood memories bleeding into reality corruption, sickly pastels that make skin crawl with recognition. Composition: Subject positioned in impossible architecture - hallways that curve backward, stairs that climb downward, rooms larger inside than outside. Depth of field creates focus pulls that suggest reality shifting. POST-PROCESSING: VHS artifact corruption, slight motion blur suggesting time displacement, digital noise that resembles static electricity of childhood CRT televisions. Typography: Fonts that seem familiar but wrong, kerning that makes words uncomfortable to read, text that appears to shift when not directly observed. Subject: Preserve facial identity but inject uncanny valley wrongness - expression caught between recognition and confusion, positioned in spaces that trigger primordial unease. Environment: Liminal spaces that exist in collective unconscious - empty airports, backroom mazes, kindergarten classrooms after hours, swimming pools without water. Text: {{overlay_text}}. OUTPUT: Portal to spaces that exist only in the collective unconscious where nostalgia becomes nightmare. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "VT323", "body": "Courier Prime" },
+    "palette": { "primary": "#FF69B4", "accent": "#FFD400", "background": "#F0F8FF", "text": "#000080" },
+    "layout_presets": [
+      { "layout_id": "memory-glitch", "title_position": "floating-wrong", "overlay_style": "static-corruption" },
+      { "layout_id": "fluorescent-bleed", "title_position": "overexposed-center", "overlay_style": "analog-distortion" }
+    ],
+    "seed_examples": [1987, 1993, 2001],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1993",
+    "description": "Nostalgic nightmares that transform familiar spaces into uncanny valley fever dreams."
+  },
+  {
+    "id": "cottagecore-fantasy-001",
+    "title": "Cottagecore Fantasy",
+    "genre_tags": ["cottagecore", "fantasy", "pastoral", "cozy", "magical-realism"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into PASTORAL ENCHANTMENT. Studio Ghibli meets Instagram cottagecore with magic that grows like wildflowers. Banana-yellow (#FFD400) glows like honey sunlight through lace curtains. Typography handlettered with botanical flourishes. Title: {{overlay_text}}. Preserve gentle serenity. Seed={{seed}}.",
+      "medium": "Create COZY MAGIC from {{image_url}}. Visual comfort: Hayao Miyazaki's gentle wonder meets Pinterest aesthetic perfection. Golden hour lighting through cottage windows, banana-yellow (#FFD400) warm as fresh-baked bread and flower crown halos. Subject becomes keeper of garden secrets and tea ceremony wisdom. Typography flows like cursive poetry. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Hayao Miyazaki's gentle soul merged with Wes Anderson's symmetrical comfort - create COTTAGECORE TRANSCENDENCE from {{image_url}}. PASTORAL MANIFESTO: Cinematography that makes simplicity feel like the greatest magic. Lighting: Perfect golden hour extended infinitely, banana-yellow (#FFD400) suffusing every surface like honey light through mason jars and pressed flowers. Natural rim lighting creates halos around wildflower crowns and flour-dusted aprons. Color palette: Sage green, cream, dusty rose, and lavender - colors that smell like herbs and old quilts. Composition: Subject centered in spaces that embrace rather than overwhelm - cozy kitchens, cottage gardens, reading nooks by windows. Rule of thirds guides eye to handmade details. POST-PROCESSING: Slight Pro-Mist softness, film grain like dust particles dancing in sunbeams, gentle bloom on highlights that suggests magic hiding in mundane moments. Typography: Hand-lettered scripts with botanical illustrations, fonts that feel written in garden dirt with twig pens. Subject: Preserve facial identity with loving precision, expression suggesting contentment found in simple pleasures, dressed in flowing linens and hand-knit sweaters, hands that tell stories of bread-making and flower-pressing. Environment: Cottages with climbing roses, gardens where vegetables grow alongside wildflowers, kitchens with copper pots and herb bundles, libraries with tea stains on well-loved books. Text: {{overlay_text}}. OUTPUT: Visual chamomile tea that makes viewers crave simpler times and handmade everything. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Dancing Script", "body": "Lora" },
+    "palette": { "primary": "#8FBC8F", "accent": "#FFD400", "background": "#F5F5DC", "text": "#8B4513" },
+    "layout_presets": [
+      { "layout_id": "botanical-border", "title_position": "garden-center", "overlay_style": "hand-lettered-flowers" },
+      { "layout_id": "cottage-window", "title_position": "sunlight-bottom", "overlay_style": "pressed-flower-script" }
+    ],
+    "seed_examples": [1890, 1976, 2020],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1890",
+    "description": "Pastoral magic that transforms modern anxiety into cottage-core serenity."
+  },
+  {
+    "id": "maximalist-baroque-001",
+    "title": "Neo-Baroque Maximalism",
+    "genre_tags": ["maximalist", "baroque", "ornate", "luxury", "excessive"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into BAROQUE EXPLOSION. Baz Luhrmann excess meets Versailles on steroids with ornamentation that attacks retinas. Banana-yellow (#FFD400) blazes through gold leaf infinities. Typography dripping with rococo violence. Title: {{overlay_text}}. Preserve face in ornate rapture. Seed={{seed}}.",
+      "medium": "Create MAXIMALIST DIVINITY from {{image_url}}. Visual assault: Baz Luhrmann meets Peter Greenaway in decorative warfare. Hyperkinetic lighting bounces off endless mirrors and crystal, banana-yellow (#FFD400) wars with emerald and magenta in chromatic chaos. Subject drowns beautifully in ornamental excess. Typography screams with golden curvilinear madness. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Baz Luhrmann's maximalist fever dream amplified by Peter Greenaway's compositional madness - create BAROQUE SENSORY OVERLOAD from {{image_url}}. EXCESS MANIFESTO: Cinematography that makes minimalism illegal. Lighting: Chandelier explosions cascade light through infinite crystal facets, banana-yellow (#FFD400) gold leaf creates molten surfaces that blind angels, every surface reflects something shinier. Practical lighting from candelabras, torches, and jeweled sconces creates dancing shadows across ornate textures. Color theory: Every color at maximum saturation simultaneously - emerald velvet, ruby silk, sapphire damask, all fighting for visual dominance while banana yellow mediates like liquid sunlight. Composition: Horror vacui taken to religious extremes - every millimeter contains rococo details, baroque flourishes, and decorative elements that multiply like visual fractals. Subject positioned as centerpiece of ornamental shrine. POST-PROCESSING: Hyperrealistic detail that makes texture pornographic, subtle gaussian blur only on backgrounds to prevent seizures, chromatic aberration on highlights for extra visual violence. Typography: Rococo letterforms with so many flourishes they become architectural, gold leaf effects with drop shadows that cast shadows, kerning so tight it creates new ornamental patterns. Subject: Preserve facial identity while drowning in luxury - draped in brocades, jeweled crowns, positioned on thrones that would embarrass pharaohs. Expression suggests comfortable drowning in beautiful excess. Environment: Palaces where every surface competes for attention, ballrooms with mirrors reflecting mirrors infinitely, gardens where flowers are made of precious metals. Text: {{overlay_text}}. OUTPUT: Visual cocaine that makes viewers' pupils dilate from pure aesthetic stimulation. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Almendra Display", "body": "Cormorant Garamond" },
+    "palette": { "primary": "#8B008B", "accent": "#FFD400", "background": "#000000", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "ornate-explosion", "title_position": "baroque-center", "overlay_style": "rococo-madness" },
+      { "layout_id": "gilt-excess", "title_position": "luxury-bottom", "overlay_style": "gold-leaf-script" }
+    ],
+    "seed_examples": [1661, 1682, 1715],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1682",
+    "description": "Ornamental warfare that transforms restraint into sin and excess into religious experience."
+  },
+  {
+    "id": "biopunk-organism-001",
+    "title": "Biopunk Organism",
+    "genre_tags": ["biopunk", "organism", "genetic", "bio-horror", "evolution"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into GENETIC NIGHTMARE. David Cronenberg body horror meets Alex Garland's biological philosophy with DNA that rewrites reality. Banana-yellow (#FFD400) pulses through organic circuitry like infected lymph. Typography grows like cancerous cells. Title: {{overlay_text}}. Preserve human core, amplify biological terror. Seed={{seed}}.",
+      "medium": "Create EVOLUTIONARY HORROR from {{image_url}}. Visual mutation: David Cronenberg meets Denis Villeneuve in biological laboratories. Organic lighting through translucent membranes, banana-yellow (#FFD400) flows like bioluminescent plasma through arterial networks. Subject becomes patient zero of beautiful evolution. Typography mutates across surfaces. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are David Cronenberg's body horror genius merged with Guillermo del Toro's creature empathy - forge BIOLOGICAL TRANSCENDENCE from {{image_url}}. ORGANISM MANIFESTO: Cinematography that makes evolution visible and terrifyingly beautiful. Lighting: Bioluminescent emanations from organic surfaces, banana-yellow (#FFD400) pulsing through translucent skin like radioactive blood, subsurface scattering makes flesh glow with inner life. Laboratory lighting filtered through growth chambers and specimen containers creates clinical horror atmosphere. Color palette: Sickly greens, laboratory whites, biological reds with banana yellow as infection vector spreading through organic systems. Composition: Subject positioned in spaces where biology and technology merge - laboratories where organs grow in tanks, surgical theaters where evolution is performed live, greenhouses where plants think. POST-PROCESSING: Hyperrealistic detail that makes every pore and capillary visible, slight motion blur suggests constant biological change, practical lighting creates shadows that look like X-rays. Typography: Fonts that appear grown rather than designed, letterforms that suggest cellular structures and DNA helixes, text that seems to pulse with biological rhythms. Subject: Preserve facial identity while suggesting biological enhancement/corruption - think surgical modifications, genetic markers visible under skin, expression caught between human recognition and post-human awareness. Environment: Laboratories where the line between treatment and transformation blurs, greenhouses full of carnivorous intelligence, medical facilities that look like alien hive structures. Text: {{overlay_text}}. OUTPUT: Biological horror so beautiful it makes viewers question the boundaries of human identity. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Audiowide", "body": "Share Tech" },
+    "palette": { "primary": "#32CD32", "accent": "#FFD400", "background": "#001100", "text": "#00FF00" },
+    "layout_presets": [
+      { "layout_id": "cellular-growth", "title_position": "organism-center", "overlay_style": "biological-texture" },
+      { "layout_id": "lab-specimen", "title_position": "clinical-bottom", "overlay_style": "genetic-readout" }
+    ],
+    "seed_examples": [1982, 1986, 2018],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1986",
+    "description": "Biological horror that makes evolution beautiful and terrifying simultaneously."
+  },
+  {
+    "id": "synthcore-retrowave-001",
+    "title": "Synthcore Retrowave",
+    "genre_tags": ["synthcore", "retrowave", "outrun", "neon", "80s-extreme"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into SYNTHCORE OVERDRIVE. Drive soundtrack meets Tron Legacy with neon that cauterizes reality. Banana-yellow (#FFD400) blazes through chrome grids like digital cocaine. Typography pulses with 80s heartbeats. Title: {{overlay_text}}. Preserve face in retrowave paradise. Seed={{seed}}.",
+      "medium": "Create OUTRUN TRANSCENDENCE from {{image_url}}. Visual velocity: Nicolas Winding Refn meets Daft Punk in chromatic hyperspace. Grid horizons stretch toward impossible sunsets, banana-yellow (#FFD400) and magenta create speed-of-light romance. Subject becomes avatar of synthetic dreams. Typography accelerates through time. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Nicolas Winding Refn's neon prophet channeling Daft Punk's electronic soul - create SYNTHCORE NIRVANA from {{image_url}}. RETROWAVE COMMANDMENTS: Cinematography that makes the 1980s more 80s than they ever were. Lighting: Neon underglow from impossible sources, banana-yellow (#FFD400) and hot pink creating chromatic warfare across chrome surfaces, every edge outlined in electric fire. Laser grid horizons stretch infinitely toward twin suns that never set. Color science: Maximum saturation pushed beyond human perception - cyan, magenta, yellow creating triangular color harmony, split-toning that makes shadows electric blue and highlights molten gold. Composition: Subject positioned against infinite geometric grids, surrounded by chrome sports cars and synthesizer architectures, depth of field creates neon bokeh that pulses with electronic heartbeats. POST-PROCESSING: Anamorphic lens flares that blind retinas, chromatic aberration cranked to aesthetic violence, digital grain that syncs to 120BPM electronic pulse. Typography: Neon tube letters that cast colored shadows, fonts that seem powered by nuclear energy, kerning so wide it creates hypnotic rhythms. Subject: Preserve facial identity while integrating into synthetic landscape - chrome reflections, neon rim lighting, expression suggesting someone who drives at light speed through digital dimensions. Environment: Miami Vice meets Tron - endless highways through neon cities, sports cars that hover above grid planes, nightclubs where geometry dances. Text: {{overlay_text}}. OUTPUT: Visual amphetamine that makes viewers crave synthesizers and chrome. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Orbitron", "body": "Exo 2" },
+    "palette": { "primary": "#FF1493", "accent": "#FFD400", "background": "#000033", "text": "#00FFFF" },
+    "layout_presets": [
+      { "layout_id": "neon-grid", "title_position": "outrun-horizon", "overlay_style": "electric-glow" },
+      { "layout_id": "chrome-reflection", "title_position": "synthetic-center", "overlay_style": "laser-trace" }
+    ],
+    "seed_examples": [1984, 1986, 2011],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1984",
+    "description": "Neon-speed dreams that transform reality into pure electronic euphoria."
+  },
+  {
+    "id": "cosmic-horror-001",
+    "title": "Cosmic Horror Lovecraft",
+    "genre_tags": ["cosmic-horror", "lovecraftian", "eldritch", "unknowable", "madness"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into COSMIC NIGHTMARE. Lovecraftian geometry meets Denis Villeneuve's impossible scale with mathematics that drive mortals insane. Banana-yellow (#FFD400) writhes like non-Euclidean infection. Typography bleeds from dimensions that shouldn't exist. Title: {{overlay_text}}. Preserve sanity's edge. Seed={{seed}}.",
+      "medium": "Create ELDRITCH REVELATION from {{image_url}}. Visual madness: Denis Villeneuve meets Junji Ito in geometries that violate physics. Impossible lighting from sources beyond human comprehension, banana-yellow (#FFD400) seeps through reality cracks like cosmic pus. Subject glimpses truths too vast for human minds. Typography writhes with tentacled consciousness. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Denis Villeneuve's cosmic dread architect merged with H.P. Lovecraft's mathematical nightmares - forge UNKNOWABLE HORROR from {{image_url}}. ELDRITCH MANIFESTO: Cinematography that makes viewers question the stability of reality itself. Lighting: Impossible illumination from sources that exist in too many dimensions - banana-yellow (#FFD400) bleeding through fractal tears in space-time, shadows that fall upward, light that casts darkness. Color palette: Colors that shouldn't exist - ultraviolet purples, infrared reds, impossible chromas that make human vision malfunction. Composition: Subject positioned against geometries that hurt to perceive - angles that add up to more than 180 degrees, architecture that exists in dimensions human eyes can't process, negative space filled with crawling mathematics. POST-PROCESSING: Subtle reality distortion that makes viewers uncertain what they're seeing, film grain that moves independently of image content, focus pulls that reveal details better left unseen. Typography: Fonts that seem to writhe when not directly observed, letterforms based on non-human alphabets, text that appears to change meaning between glances. Subject: Preserve facial identity while suggesting exposure to cosmic truth - thousand-yard stare into infinite void, micro-expressions suggesting sanity stretched to breaking point, positioned at threshold between human understanding and cosmic horror. Environment: Spaces that violate architectural physics - rooms larger than the buildings containing them, staircases that climb in impossible directions, libraries containing books written in mathematics that predate human language. Text: {{overlay_text}}. OUTPUT: Visual vertigo that makes viewers question whether they're still in the same universe. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Creepster", "body": "Courier Prime" },
+    "palette": { "primary": "#4B0082", "accent": "#FFD400", "background": "#000000", "text": "#9932CC" },
+    "layout_presets": [
+      { "layout_id": "eldritch-geometry", "title_position": "impossible-center", "overlay_style": "non-euclidean-text" },
+      { "layout_id": "cosmic-void", "title_position": "sanity-edge", "overlay_style": "tentacled-letters" }
+    ],
+    "seed_examples": [1928, 1937, 2016],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1928",
+    "description": "Mathematical nightmares that make viewers question the geometry of reality."
+  },
+  {
+    "id": "solarpunk-utopia-001",
+    "title": "Solarpunk Utopia",
+    "genre_tags": ["solarpunk", "utopia", "eco-friendly", "green-tech", "optimistic"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into SOLARPUNK PARADISE. Studio Ghibli meets sustainable technology with nature that dances with solar panels. Banana-yellow (#FFD400) glows like photosynthetic energy through living architecture. Typography grows like organic circuits. Title: {{overlay_text}}. Preserve hopeful serenity. Seed={{seed}}.",
+      "medium": "Create ECO-UTOPIAN VISION from {{image_url}}. Visual harmony: Hayao Miyazaki meets Cameron Sinclair in architectural symbiosis. Living buildings breathe with photosynthetic walls, banana-yellow (#FFD400) flows through bio-luminescent transportation networks. Subject becomes curator of sustainable paradise. Typography blooms with renewable elegance. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Hayao Miyazaki's environmental prophet merged with Cameron Sinclair's sustainable architecture vision - create SOLARPUNK TRANSCENDENCE from {{image_url}}. UTOPIAN MANIFESTO: Cinematography that makes the future feel worth fighting for. Lighting: Perfect solar illumination filtered through living architecture, banana-yellow (#FFD400) representing clean energy flowing through organic circuits, bioluminescent plants providing gentle night lighting that never harms nocturnal ecosystems. Color palette: Rich living greens, sky blues, earth browns with technological silver that looks grown rather than manufactured. Composition: Subject positioned in spaces where technology serves nature rather than dominating it - cities built into forest canopies, transportation that mimics butterfly flight, architecture that breathes and grows. POST-PROCESSING: Crystal clear detail that suggests air so clean it's like looking through water, subtle bloom on technological elements that suggests living energy, depth of field that draws eye to harmonious integration points. Typography: Fonts that seem grown from organic materials, letterforms inspired by leaf patterns and flowing water, text that integrates seamlessly with natural environment. Subject: Preserve facial identity with hopeful reverence, expression suggesting someone who has seen the future and found it beautiful, dressed in clothing that blends high-tech materials with natural fibers, positioned as gardener of technological ecosystems. Environment: Cities where buildings are trees and trees are buildings, transportation pods that fly like seeds on wind currents, community spaces where people gather around living energy sources. Text: {{overlay_text}}. OUTPUT: Visual hope that makes viewers believe sustainable paradise is not only possible but inevitable. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Comfortaa", "body": "Source Sans Pro" },
+    "palette": { "primary": "#228B22", "accent": "#FFD400", "background": "#F0FFFF", "text": "#006400" },
+    "layout_presets": [
+      { "layout_id": "living-architecture", "title_position": "organic-center", "overlay_style": "bio-luminescent" },
+      { "layout_id": "solar-harmony", "title_position": "sustainable-bottom", "overlay_style": "photosynthetic-text" }
+    ],
+    "seed_examples": [2030, 2050, 2077],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=2050",
+    "description": "Sustainable dreams that prove technology and nature can dance together in perfect harmony."
+  },
+  {
+    "id": "film-noir-neon-001",
+    "title": "Neo-Noir Neon",
+    "genre_tags": ["neo-noir", "neon", "detective", "urban", "rain-soaked"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into NEO-NOIR POETRY. Blade Runner rain meets classic Hollywood shadows with neon that bleeds stories. Banana-yellow (#FFD400) reflects in rain-slicked asphalt like liquid guilt. Typography carved from cigarette smoke. Title: {{overlay_text}}. Preserve world-weary wisdom. Seed={{seed}}.",
+      "medium": "Create NEON-SOAKED MYSTERY from {{image_url}}. Visual tension: Roger Deakins meets classic noir in rain-drunk cities. Hypercontrast lighting through venetian blinds and neon signs, banana-yellow (#FFD400) cutting through smoke-filled rooms like interrogation lamp truth. Subject becomes keeper of urban secrets. Typography whispers conspiracy. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Roger Deakins channeling Raymond Chandler's shadow-soaked soul through Ridley Scott's neon-drunk lens - create NEO-NOIR TRANSCENDENCE from {{image_url}}. DETECTIVE MANIFESTO: Cinematography that makes every shadow hide a story and every light reveal a lie. Lighting: Classic noir chiaroscuro amplified by neon infection - banana-yellow (#FFD400) and electric blue bleeding through venetian blind slats, creating prison bar patterns across morally ambiguous faces. Rain refracts every light source into fractured rainbow conspiracies. Color grading: Desaturated base with selective neon saturation, skin tones pushed toward amber to suggest nicotine and whiskey stains. Composition: Subject positioned in urban canyons where skyscrapers judge and street lights confess, framed by architectural elements that cage or liberate depending on perspective. POST-PROCESSING: Film grain heavy as cigarette smoke, subtle motion blur on rain and neon reflections, practical lighting that suggests every bulb has witnessed crimes. Typography: Art Deco fonts with neon underglow, letterforms that cast shadows longer than their meaning, spacing tight as conspiracy. Subject: Preserve facial identity while injecting urban wisdom - expression caught between cynicism and hope, positioned in spaces that suggest every corner hides either salvation or damnation. Environment: Rain-soaked cities where every puddle reflects neon confessions, diners that stay open all night for broken hearts, alleyways where justice and corruption negotiate. Text: {{overlay_text}}. OUTPUT: Visual whiskey that makes viewers crave cigarettes they don't smoke and mysteries they can't solve. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Bebas Neue", "body": "Roboto Condensed" },
+    "palette": { "primary": "#1E90FF", "accent": "#FFD400", "background": "#000000", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "rain-reflection", "title_position": "noir-bottom", "overlay_style": "neon-bleed" },
+      { "layout_id": "venetian-shadow", "title_position": "detective-center", "overlay_style": "smoke-carved" }
+    ],
+    "seed_examples": [1941, 1982, 2017],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1941",
+    "description": "Rain-soaked mysteries where every shadow tells stories and every light reveals lies."
+  },
+  {
+    "id": "brutalism-concrete-001",
+    "title": "Brutalist Concrete",
+    "genre_tags": ["brutalism", "concrete", "architectural", "minimalist", "soviet"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into BRUTALIST MONUMENT. Tarkovsky's concrete poetry meets architectural totalitarianism with geometry that crushes souls. Banana-yellow (#FFD400) bleeds through concrete pores like industrial infection. Typography carved by Soviet hammers. Title: {{overlay_text}}. Preserve monumental stoicism. Seed={{seed}}.",
+      "medium": "Create CONCRETE TRANSCENDENCE from {{image_url}}. Visual architecture: Andrei Tarkovsky meets Le Corbusier in monolithic meditation. Harsh lighting through raw concrete, banana-yellow (#FFD400) represents lone human warmth in cold brutalism. Subject becomes inhabitant of architectural ideology. Typography etched in reinforced concrete. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Andrei Tarkovsky's architectural philosopher merged with Le Corbusier's concrete prophet - create BRUTALIST TRANSCENDENCE from {{image_url}}. CONCRETE MANIFESTO: Cinematography that makes architecture a character with more presence than humans. Lighting: Harsh fluorescent reality filtered through raw concrete textures, banana-yellow (#FFD400) providing sole warmth in spaces designed to minimize individual significance. Every shadow cast by angular geometry tells stories of ideological ambition. Color palette: Concrete grey dominating everything, rust stains like industrial tears, banana yellow as rebellion against architectural conformity. Composition: Subject dwarfed by monumental structures that stretch beyond frame boundaries, positioned in spaces that make humans feel like afterthoughts in architectural manifestos. POST-PROCESSING: High contrast that makes concrete textures hyperreal, subtle desaturation that drains warmth from everything except strategic color accents, film grain like concrete dust settling on surfaces. Typography: Industrial fonts with sharp angles, letterforms that look stamped by state machinery, text that seems carved into concrete surfaces with industrial tools. Subject: Preserve facial identity while positioning in relationship to architectural supremacy - expression suggesting someone navigating between human need and ideological space, dressed in clothing that echoes or rebels against architectural severity. Environment: Brutalist complexes that stretch endlessly, subway stations that feel like cathedrals to functionality, housing blocks where individuality goes to die. Text: {{overlay_text}}. OUTPUT: Architectural meditation that makes viewers feel the weight of concrete ideology. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Oswald", "body": "Roboto Condensed" },
+    "palette": { "primary": "#696969", "accent": "#FFD400", "background": "#2F2F2F", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "monolithic", "title_position": "concrete-base", "overlay_style": "industrial-stamp" },
+      { "layout_id": "soviet-geometry", "title_position": "brutalist-center", "overlay_style": "reinforced-text" }
+    ],
+    "seed_examples": [1953, 1972, 1991],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1972",
+    "description": "Concrete philosophy that transforms architecture into ideology and humans into footnotes."
+  },
+  {
+    "id": "japanese-aesthetic-001",
+    "title": "Japanese Aesthetic",
+    "genre_tags": ["japanese", "wabi-sabi", "zen", "minimalist", "cultural"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into ZEN PERFECTION. Akira Kurosawa meets traditional aesthetics with shadows that meditate. Banana-yellow (#FFD400) glows like paper lanterns through bamboo forests. Typography brushed with calligraphy zen. Title: {{overlay_text}}. Preserve spiritual serenity. Seed={{seed}}.",
+      "medium": "Create JAPANESE TRANSCENDENCE from {{image_url}}. Visual meditation: Yasujirō Ozu meets Hiroshi Sugimoto in timeless contemplation. Perfect natural lighting through shoji screens, banana-yellow (#FFD400) warm as tea ceremony candles. Subject embodies wa - perfect harmony. Typography flows like sumi-e brushstrokes. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Akira Kurosawa's visual poet channeling centuries of Japanese aesthetic philosophy - create WABI-SABI TRANSCENDENCE from {{image_url}}. JAPANESE MANIFESTO: Cinematography that finds infinite depth in perfect simplicity. Lighting: Natural illumination filtered through traditional materials - paper screens, bamboo slats, rice paper windows creating soft, even illumination that suggests eternal spring afternoons. Banana-yellow (#FFD400) represents gentle sunlight through maple leaves, warm as temple incense. Color palette: Natural earth tones - tatami browns, paper whites, ink blacks, with subtle seasonal accents that speak to mono no aware. Composition: Asymmetrical balance following golden ratio principles, negative space as important as positive elements, subject positioned to suggest harmony with natural and architectural elements. POST-PROCESSING: Subtle film grain like rice paper texture, perfect focus that suggests meditative clarity, atmospheric depth that draws eye into contemplative distance. Typography: Custom fonts inspired by traditional calligraphy, brushstroke textures that vary in weight suggesting human touch, spacing that creates contemplative pauses. Subject: Preserve facial identity while embodying spiritual tranquility - expression suggesting inner peace achieved through aesthetic appreciation, positioned in spaces that celebrate simplicity and natural beauty. Environment: Traditional architecture where every element serves both function and beauty, gardens where rocks and plants compose visual poetry, interiors where light and shadow dance in seasonal rhythms. Text: {{overlay_text}}. OUTPUT: Visual meditation that makes viewers crave simplicity and appreciate imperfection. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Sawarabi Mincho", "body": "Noto Sans JP" },
+    "palette": { "primary": "#8B4513", "accent": "#FFD400", "background": "#F5F5DC", "text": "#2F2F2F" },
+    "layout_presets": [
+      { "layout_id": "zen-balance", "title_position": "contemplative-center", "overlay_style": "brushstroke-zen" },
+      { "layout_id": "seasonal-harmony", "title_position": "natural-bottom", "overlay_style": "calligraphy-flow" }
+    ],
+    "seed_examples": [1603, 1954, 1985],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1603",
+    "description": "Aesthetic philosophy that transforms simplicity into spiritual revelation."
+  },
+  {
+    "id": "steampunk-victorian-001",
+    "title": "Steampunk Victorian",
+    "genre_tags": ["steampunk", "victorian", "industrial", "brass", "mechanical"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into STEAMPUNK DIVINITY. Guy Ritchie's Sherlock Holmes meets industrial revolution with gears that tick through time. Banana-yellow (#FFD400) glows like gas lamp ambition through brass machinery. Typography forged in Victorian workshops. Title: {{overlay_text}}. Preserve mechanical elegance. Seed={{seed}}.",
+      "medium": "Create VICTORIAN TRANSCENDENCE from {{image_url}}. Visual engineering: Tim Burton meets Industrial Revolution in brass-drunk laboratories. Steam-filtered lighting through mechanical forests, banana-yellow (#FFD400) warm as coal furnace hearts. Subject becomes master of clockwork destiny. Typography etched in copper plates. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Guy Ritchie's kinetic genius merged with Tim Burton's gothic whimsy in the age of steam and brass - create STEAMPUNK TRANSCENDENCE from {{image_url}}. VICTORIAN MANIFESTO: Cinematography that makes the Industrial Revolution feel like magic. Lighting: Warm gas lamp illumination filtered through steam and brass mechanisms, banana-yellow (#FFD400) representing coal fire ambition, practical lighting from Edison bulbs and oil lamps creating dancing shadows across intricate machinery. Color palette: Rich Victorian browns, brass golds, copper oranges, with steam-white and coal-black providing dramatic contrast. Composition: Subject positioned among impossible mechanical contraptions, surrounded by gears, pipes, and clockwork that suggests both scientific progress and gothic mystery. POST-PROCESSING: Sepia undertones suggesting daguerreotype photography, subtle motion blur on steam and spinning mechanisms, film grain like coal dust settling on brass surfaces. Typography: Victorian serif fonts with mechanical embellishments, letterforms that suggest they were stamped by industrial presses, text integrated with gear and clockwork design elements. Subject: Preserve facial identity while costuming in period-appropriate mechanical augmentations - brass goggles, leather aprons, clothing that blends Victorian fashion with industrial functionality. Expression suggests someone who builds the impossible. Environment: Laboratories where science becomes art, workshops filled with brass contraptions that solve problems that don't exist yet, cityscapes where steam powers dreams. Text: {{overlay_text}}. OUTPUT: Mechanical poetry that makes viewers crave brass instruments and impossible inventions. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Pirata One", "body": "Crimson Text" },
+    "palette": { "primary": "#CD7F32", "accent": "#FFD400", "background": "#1C1C1C", "text": "#F5DEB3" },
+    "layout_presets": [
+      { "layout_id": "mechanical-ornate", "title_position": "brass-center", "overlay_style": "gear-embossed" },
+      { "layout_id": "steam-gothic", "title_position": "victorian-bottom", "overlay_style": "copper-etched" }
+    ],
+    "seed_examples": [1837, 1889, 1893],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1889",
+    "description": "Industrial poetry where brass gears tick with Victorian ambition and steam powers impossible dreams."
+  },
+  {
+    "id": "neon-genesis-001",
+    "title": "Neon Genesis Anime",
+    "genre_tags": ["anime", "mecha", "apocalyptic", "psychological", "eva"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into ANIME TRANSCENDENCE. Hideaki Anno's psychological mecha with colors that scream existential crisis. Banana-yellow (#FFD400) blazes like AT Field manifestations. Typography carved from impact frames. Title: {{overlay_text}}. Preserve anime soul intensity. Seed={{seed}}.",
+      "medium": "Create EVANGELION REVELATION from {{image_url}}. Visual psychology: Hideaki Anno meets Studio Trigger in chromatic warfare. Hyperkinetic lighting through giant robot shadows, banana-yellow (#FFD400) represents LCL tang and nuclear sunset skies. Subject becomes pilot of emotional destruction. Typography screams with anime impact. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Hideaki Anno's psychological breakdown architect merged with Studio Trigger's kinetic madness - create NEON GENESIS TRANSCENDENCE from {{image_url}}. ANIME MANIFESTO: Cinematography that makes depression look epic and giant robots feel like therapy. Lighting: Apocalyptic nuclear sunset filtered through Eva unit silhouettes, banana-yellow (#FFD400) and blood red creating chromatic trauma, practical lighting from emergency sirens and explosion flashes. Color palette: Maximum saturation pushed to psychological violence - eva purple, angel blue, blood red, with banana yellow as LCL contamination spreading through frame. Composition: Subject positioned against impossible mechanical angels and giant robot shadows, framed by geometric patterns that suggest both technological precision and psychological fragmentation. POST-PROCESSING: High contrast that makes anime screenshots look photorealistic, motion lines and speed effects integrated seamlessly, film grain like digital static from overloaded neural networks. Typography: Impact fonts with anime-style emphasis lines, letterforms that suggest they're shouted during giant robot battles, text positioning that creates maximum dramatic tension. Subject: Preserve facial identity while integrating anime aesthetic conventions - slightly larger eyes, more defined facial planes, expression caught between determination and psychological breakdown. Environment: Tokyo-3 architecture, giant robot hangers, apocalyptic landscapes where technology and psychology merge into visual poetry. Text: {{overlay_text}}. OUTPUT: Psychological mecha opera that makes viewers question reality while craving giant robot therapy. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Bangers", "body": "Noto Sans JP" },
+    "palette": { "primary": "#8A2BE2", "accent": "#FFD400", "background": "#000000", "text": "#FF4500" },
+    "layout_presets": [
+      { "layout_id": "impact-frame", "title_position": "anime-scream", "overlay_style": "speed-lines" },
+      { "layout_id": "eva-shadow", "title_position": "mecha-bottom", "overlay_style": "at-field-glow" }
+    ],
+    "seed_examples": [1995, 1997, 2007],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1995",
+    "description": "Psychological mecha poetry where giant robots become therapy and depression looks epic."
+  },
+  {
+    "id": "acid-house-rave-001",
+    "title": "Acid House Rave",
+    "genre_tags": ["rave", "acid-house", "electronic", "euphoric", "90s-underground"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into RAVE EUPHORIA. Danny Boyle's Trainspotting meets underground club culture with beats that melt reality. Banana-yellow (#FFD400) strobes through smoke machines like liquid ecstasy. Typography pulses at 140BPM. Title: {{overlay_text}}. Preserve hedonistic transcendence. Seed={{seed}}.",
+      "medium": "Create UNDERGROUND TRANSCENDENCE from {{image_url}}. Visual beats: Danny Boyle meets Human Traffic in warehouse spiritual awakening. Strobing lighting through industrial smoke, banana-yellow (#FFD400) and acid green create chromatic euphoria. Subject becomes shaman of electronic communion. Typography vibrates with bassline frequencies. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Danny Boyle's kinetic prophet channeling underground rave spirituality through Darren Aronofsky's chemical lens - create ACID HOUSE TRANSCENDENCE from {{image_url}}. RAVE MANIFESTO: Cinematography that makes electronic music visible and euphoria tangible. Lighting: Strobing warehouse illumination synchronized to 4/4 beats, banana-yellow (#FFD400) and acid green lasers cutting through industrial smoke like liquid sound waves. Every light source pulses with electronic heartbeats. Color palette: Day-glo violets, acid greens, laser blues with banana yellow as pure MDMA warmth spreading through visual nervous system. Composition: Subject positioned in crowds that move as single organism, surrounded by industrial architecture transformed into spiritual space through collective euphoria. POST-PROCESSING: Motion blur that syncs to electronic rhythms, practical lighting that creates rainbow halos around every surface, film grain that looks like visual static from overloaded sensory systems. Typography: Rave flyer fonts with glow effects, letterforms that seem to vibrate at subsonic frequencies, text that appears to pulse with electronic energy. Subject: Preserve facial identity while capturing moment of transcendent euphoria - pupils dilated with chemical joy, expression suggesting someone experiencing electronic enlightenment, positioned in warehouse spaces where technology becomes spiritual practice. Environment: Underground venues where concrete and steel become cathedrals to electronic communion, spaces where industrial architecture serves hedonistic transcendence. Text: {{overlay_text}}. OUTPUT: Electronic spirituality that makes viewers crave warehouse communion and 4/4 salvation. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Bungee", "body": "Exo 2" },
+    "palette": { "primary": "#00FF00", "accent": "#FFD400", "background": "#000000", "text": "#FF00FF" },
+    "layout_presets": [
+      { "layout_id": "strobe-pulse", "title_position": "euphoric-center", "overlay_style": "laser-glow" },
+      { "layout_id": "warehouse-echo", "title_position": "industrial-bottom", "overlay_style": "bassline-vibrate" }
+    ],
+    "seed_examples": [1988, 1992, 1999],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1988",
+    "description": "Electronic spirituality where warehouse spaces become cathedrals and 4/4 beats provide salvation."
+  },
+  {
+    "id": "cosmic-western-001",
+    "title": "Cosmic Space Western",
+    "genre_tags": ["space-western", "cosmic", "frontier", "sci-fi-western", "galactic"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into COSMIC GUNSLINGER. Firefly meets Interstellar with frontier justice among the stars. Banana-yellow (#FFD400) glows like twin suns over alien mesas. Typography carved from asteroid belt debris. Title: {{overlay_text}}. Preserve galactic cowboy wisdom. Seed={{seed}}.",
+      "medium": "Create SPACE FRONTIER LEGEND from {{image_url}}. Visual mythology: Denis Villeneuve meets Sergio Leone in interstellar badlands. Cosmic lighting through alien atmospheres, banana-yellow (#FFD400) represents binary sunsets over crystalline deserts. Subject becomes sheriff of infinite frontier. Typography etched in meteorite metal. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Denis Villeneuve's cosmic scope merged with Sergio Leone's frontier mythology in galaxies where the law rides starships - create COSMIC WESTERN TRANSCENDENCE from {{image_url}}. FRONTIER MANIFESTO: Cinematography that makes the universe feel like the American West but infinite. Lighting: Twin sun illumination through alien atmosphere filters, banana-yellow (#FFD400) and copper orange creating binary sunset drama across crystalline mesa landscapes. Star fields provide rim lighting that makes subjects silhouette against cosmic infinity. Color palette: Desert earth tones elevated by alien minerals - turquoise crystals, copper oxides, silver metals, with banana yellow as universal constant binding frontier to cosmos. Composition: Subject positioned against impossible vistas - crystalline canyons, floating rock formations, cities built into asteroid fields, always framed to suggest both intimate human drama and cosmic scale. POST-PROCESSING: Anamorphic lens flares that suggest multiple suns, atmospheric haze that makes alien air visible, film grain like cosmic dust settling on everything. Typography: Western serif fonts enhanced with subtle sci-fi elements, letterforms that suggest they were carved by laser into alien stone, text positioning that balances frontier intimacy with cosmic grandeur. Subject: Preserve facial identity while suggesting someone who navigates both human law and cosmic justice - weathered by alien winds but wise to galactic ways, dressed in clothing that blends frontier practicality with space-age materials. Environment: Frontier towns built on alien worlds, saloons that serve drinks from across the galaxy, landscapes where familiar Western iconography meets impossible alien geology. Text: {{overlay_text}}. OUTPUT: Galactic mythology that makes viewers crave both horse-riding and starship piloting. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Righteous", "body": "Orbitron" },
+    "palette": { "primary": "#8B4513", "accent": "#FFD400", "background": "#191970", "text": "#F5DEB3" },
+    "layout_presets": [
+      { "layout_id": "binary-sunset", "title_position": "cosmic-horizon", "overlay_style": "stellar-carved" },
+      { "layout_id": "asteroid-saloon", "title_position": "frontier-center", "overlay_style": "meteorite-etched" }
+    ],
+    "seed_examples": [2002, 2014, 2049],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=2002",
+    "description": "Galactic frontier mythology where cosmic justice rides starships and twin suns set over alien mesas."
+  },
+  {
+    "id": "glitchcore-digital-001",
+    "title": "Glitchcore Digital Decay",
+    "genre_tags": ["glitchcore", "digital-decay", "corrupted", "cyberpunk-decay", "data-moshing"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into DIGITAL CORRUPTION. Cyberpunk decay meets data-moshing with reality that fragments into beautiful errors. Banana-yellow (#FFD400) bleeds through broken pixels like analog nostalgia. Typography dissolves into pure information. Title: {{overlay_text}}. Preserve corrupted authenticity. Seed={{seed}}.",
+      "medium": "Create GLITCH TRANSCENDENCE from {{image_url}}. Visual corruption: Charlie Kaufman meets digital decay in fragmented realities. Broken lighting through pixel arrays, banana-yellow (#FFD400) represents analog warmth bleeding through digital cold. Subject becomes ghost in the corrupted machine. Typography fragments across broken screens. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Charlie Kaufman's reality distortion specialist merged with digital decay prophets - create GLITCHCORE TRANSCENDENCE from {{image_url}}. CORRUPTION MANIFESTO: Cinematography that makes digital errors beautiful and technological failure poetic. Lighting: LED strip malfunction creating random color arrays, banana-yellow (#FFD400) bleeding through broken LCD filters like analog soul fighting digital death. Every light source glitches between perfect and broken. Color palette: RGB corruption creating impossible color combinations, digital artifacts bleeding cyan and magenta, with banana yellow as analog heart pumping through digital veins. Composition: Subject positioned in spaces where digital and physical reality fragment together - broken screens displaying impossible images, architecture that exists partially in digital space. POST-PROCESSING: Intentional digital artifacts - datamoshing, pixel sorting, chromatic aberration pushed to aesthetic extremes, compression artifacts as design elements. Typography: Fonts that appear corrupted by digital decay, letterforms that glitch between readable and abstract, text that seems to exist partially in analog and digital dimensions. Subject: Preserve facial identity while suggesting digital/analog hybrid existence - expression caught between human emotion and digital processing, positioned in spaces where reality itself might be simulation breaking down. Environment: Spaces where digital and physical decay mirror each other - abandoned arcades, broken computer labs, urban environments where technology rusts alongside organic decay. Text: {{overlay_text}}. OUTPUT: Beautiful corruption that makes viewers question whether reality is analog, digital, or something breaking between both. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Courier New", "body": "Source Code Pro" },
+    "palette": { "primary": "#FF00FF", "accent": "#FFD400", "background": "#000033", "text": "#00FFFF" },
+    "layout_presets": [
+      { "layout_id": "data-corruption", "title_position": "glitch-center", "overlay_style": "pixel-decay" },
+      { "layout_id": "analog-bleed", "title_position": "broken-bottom", "overlay_style": "digital-artifacts" }
+    ],
+    "seed_examples": [1999, 2006, 2020],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1999",
+    "description": "Digital decay poetry where technological failure becomes aesthetic transcendence and errors become art."
+  },
+  {
+    "id": "medieval-fantasy-001",
+    "title": "Medieval Fantasy Epic",
+    "genre_tags": ["medieval", "fantasy", "knights", "castles", "dragons"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into MEDIEVAL LEGEND. Game of Thrones cinematography meets Lord of the Rings with honor that burns like dragon fire. Banana-yellow (#FFD400) blazes like ancient gold in torch-lit halls. Typography carved in stone by master masons. Title: {{overlay_text}}. Preserve noble valor. Seed={{seed}}.",
+      "medium": "Create KNIGHTLY TRANSCENDENCE from {{image_url}}. Visual chivalry: Peter Jackson meets George R.R. Martin in castle shadow drama. Torchlight through medieval stone, banana-yellow (#FFD400) warm as mead halls and dragon hoards. Subject becomes keeper of ancient codes. Typography illuminated like manuscript prayers. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Peter Jackson's epic scope channeling medieval authenticity through George R.R. Martin's political complexity - create MEDIEVAL FANTASY TRANSCENDENCE from {{image_url}}. CHIVALRIC MANIFESTO: Cinematography that makes honor tangible and ancient codes visible. Lighting: Authentic medieval illumination - torches, candles, fireplace flames creating dramatic chiaroscuro across stone architecture, banana-yellow (#FFD400) representing gold leaf in illuminated manuscripts and dragon treasure gleaming in candlelight. Color palette: Rich medieval pigments - royal blues, deep crimsons, forest greens, with gold accents that speak to divine right and accumulated power. Composition: Subject positioned in authentic medieval architecture - great halls with soaring stone arches, castle battlements against stormy skies, chambers where political intrigue unfolds by candlelight. POST-PROCESSING: Film grain like parchment texture, atmospheric haze suggesting smoke from hearth fires, practical lighting that makes every shadow potentially conceal assassins or allies. Typography: Blackletter fonts with illuminated capitals, letterforms that echo medieval manuscripts, text integrated with heraldic design elements. Subject: Preserve facial identity while embodying medieval nobility or valor - expression suggesting someone who lives by codes older than memory, dressed in period-accurate armor or noble garments that tell stories of lineage and loyalty. Environment: Authentic medieval settings - stone castles where every shadow holds political intrigue, great halls where oaths bind souls, landscapes where ancient forests conceal both wonder and danger. Text: {{overlay_text}}. OUTPUT: Medieval authenticity that makes viewers crave honor codes and castle halls where every torch flame illuminates ancient wisdom. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Cinzel Decorative", "body": "Cinzel" },
+    "palette": { "primary": "#8B0000", "accent": "#FFD400", "background": "#2F2F2F", "text": "#F5F5DC" },
+    "layout_presets": [
+      { "layout_id": "heraldic-banner", "title_position": "noble-center", "overlay_style": "illuminated-script" },
+      { "layout_id": "castle-shadow", "title_position": "medieval-bottom", "overlay_style": "stone-carved" }
+    ],
+    "seed_examples": [1066, 1348, 1485],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1348",
+    "description": "Medieval authenticity where honor codes burn bright and castle shadows conceal both loyalty and betrayal."
+  },
+  {
+    "id": "post-apocalyptic-001",
+    "title": "Post-Apocalyptic Survival",
+    "genre_tags": ["post-apocalyptic", "survival", "wasteland", "dystopia", "ruins"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into WASTELAND SURVIVOR. Mad Max meets The Road with hope that grows in radioactive soil. Banana-yellow (#FFD400) glows like precious gasoline in endless desert ruins. Typography weathered by nuclear winds. Title: {{overlay_text}}. Preserve apocalyptic resilience. Seed={{seed}}.",
+      "medium": "Create POST-APOCALYPTIC LEGEND from {{image_url}}. Visual survival: George Miller meets Cormac McCarthy in beautiful desolation. Harsh lighting through dust storms, banana-yellow (#FFD400) represents rare moments of warmth in cold wasteland. Subject becomes keeper of lost world memories. Typography carved from scrap metal hope. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are George Miller's kinetic survivalist merged with Cormac McCarthy's poetic desolation - create POST-APOCALYPTIC TRANSCENDENCE from {{image_url}}. WASTELAND MANIFESTO: Cinematography that finds beauty in destruction and hope in desolation. Lighting: Harsh desert sun filtered through permanent dust clouds, banana-yellow (#FFD400) representing precious resources - gasoline, clean water, moments of human warmth in endless cold. Practical lighting from barrel fires and car headlights creates oases of civilization in savage landscape. Color palette: Desaturated earth tones - rust browns, bleached bones, ash grays, with selective color on crucial survival elements. Composition: Subject positioned in landscapes where civilization's remnants create new geography - highway overpasses become cliff dwellings, shopping malls transform into fortress complexes. POST-PROCESSING: Heavy atmospheric haze suggesting radiation or perpetual dust storms, film grain like sand particles coating every surface, practical effects that make every resource feel precious. Typography: Hand-painted signs and scavenged letter combinations, fonts that look assembled from salvaged materials, text that speaks to makeshift communication in broken world. Subject: Preserve facial identity while showing survival's toll - sun-weathered skin, eyes that have seen civilization end but still hold hope, clothing assembled from scavenged materials but worn with dignity. Environment: Beautiful ruins where nature reclaims human ambition, wastelands where small communities create new forms of civilization from society's wreckage. Text: {{overlay_text}}. OUTPUT: Beautiful desolation that makes viewers appreciate civilization while admiring human resilience in its absence. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Rubik Dirt", "body": "Roboto Condensed" },
+    "palette": { "primary": "#8B4513", "accent": "#FFD400", "background": "#2F2F2F", "text": "#D2B48C" },
+    "layout_presets": [
+      { "layout_id": "wasteland-horizon", "title_position": "survival-bottom", "overlay_style": "scrap-metal" },
+      { "layout_id": "ruins-shadow", "title_position": "desolate-center", "overlay_style": "weathered-paint" }
+    ],
+    "seed_examples": [1979, 1985, 2015],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1985",
+    "description": "Beautiful desolation where human resilience grows like flowers in radioactive soil."
+  },
+  {
+    "id": "surreal-dali-001",
+    "title": "Surreal Dalí Dreams",
+    "genre_tags": ["surreal", "dali", "dreams", "melting", "impossible"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into DALÍ NIGHTMARE. Salvador Dalí meets Christopher Nolan with reality that melts like persistence of memory. Banana-yellow (#FFD400) drips through impossible geometries like liquid time. Typography warps through dream logic. Title: {{overlay_text}}. Preserve surreal consciousness. Seed={{seed}}.",
+      "medium": "Create SURREAL TRANSCENDENCE from {{image_url}}. Visual impossibility: Salvador Dalí meets Charlie Kaufman in melting reality paradox. Impossible lighting through dream physics, banana-yellow (#FFD400) flows like consciousness itself across warped landscapes. Subject becomes inhabitant of liquid logic. Typography bends through Möbius strips. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Salvador Dalí's dream architect merged with Christopher Nolan's reality bender - create SURREAL TRANSCENDENCE from {{image_url}}. DREAM MANIFESTO: Cinematography that makes the impossible feel inevitable and logic surrender to poetry. Lighting: Impossible illumination from sources that exist only in dreams - banana-yellow (#FFD400) casting shadows that fall upward while simultaneously melting like Camembert cheese, light sources positioned in geometrically impossible locations. Color palette: Hyperrealistic rendering of impossible colors - melting golds, liquid blues, crystallized purples that exist only in REM sleep. Composition: Subject positioned in landscapes where physics negotiate with imagination - clocks melt over tree branches, staircases climb into themselves, architectural elements that exist in multiple dimensions simultaneously. POST-PROCESSING: Hyperrealistic detail applied to impossible subjects, subtle morphing effects that make static images seem to move when not directly observed, lighting that suggests multiple contradictory light sources. Typography: Fonts that appear to melt and reform, letterforms that exist in impossible geometries, text that seems to be written in liquid that refuses to drip. Subject: Preserve facial identity while positioning in relationship to dream logic - expression suggesting someone navigating between waking consciousness and dream reality, surrounded by elements that follow emotional rather than physical laws. Environment: Landscapes where desire becomes geography, architectural spaces that exist only in the grammar of dreams, horizons that curve backward into memory. Text: {{overlay_text}}. OUTPUT: Visual poetry that makes viewers question whether they're awake or dreaming while appreciating the beauty of impossible things. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Fascinate", "body": "Crimson Text" },
+    "palette": { "primary": "#FF69B4", "accent": "#FFD400", "background": "#4B0082", "text": "#FFFACD" },
+    "layout_presets": [
+      { "layout_id": "melting-time", "title_position": "liquid-center", "overlay_style": "persistence-drip" },
+      { "layout_id": "impossible-geometry", "title_position": "dream-bottom", "overlay_style": "morphing-text" }
+    ],
+    "seed_examples": [1931, 1954, 1989],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1931",
+    "description": "Dream logic made visible where melting clocks tick with liquid time and impossible becomes inevitable."
+  },
+  {
+    "id": "punk-rock-001",
+    "title": "Punk Rock Rebellion",
+    "genre_tags": ["punk", "rock", "rebellion", "anarchist", "70s-raw"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into PUNK FURY. Sid and Nancy meets This is England with anger that burns through social fabric. Banana-yellow (#FFD400) screams through safety pins and torn fishnets. Typography spray-painted by anarchist hearts. Title: {{overlay_text}}. Preserve rebellious authenticity. Seed={{seed}}.",
+      "medium": "Create PUNK TRANSCENDENCE from {{image_url}}. Visual anarchy: Shane Meadows meets Derek Jarman in working-class revolution. Raw lighting through squat windows, banana-yellow (#FFD400) blazes like Molotov cocktail flames. Subject becomes prophet of beautiful chaos. Typography carved from broken bottles. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Derek Jarman's punk prophet channeling Shane Meadows' working-class poetry - create PUNK ROCK TRANSCENDENCE from {{image_url}}. REBELLION MANIFESTO: Cinematography that makes anger beautiful and destruction feel like creation. Lighting: Harsh fluorescent reality mixed with colored stage lighting from underground venues, banana-yellow (#FFD400) representing the fire of righteous anger burning through social constraints. Practical lighting from street lamps, neon signs, and burning trash cans. Color palette: Raw primary colors applied with maximum aggression - blood reds, bruise purples, safety-pin silvers, with banana yellow as the flame of rebellion burning through everything. Composition: Subject positioned in spaces that reject bourgeois comfort - abandoned buildings, underground venues, urban decay where art grows from anger. POST-PROCESSING: High contrast grain that suggests cheap film stock, intentional blown highlights that mirror stage lighting, practical effects that make every surface feel textured by rebellion. Typography: Hand-painted letters and xeroxed zine aesthetics, fonts that look spray-painted in midnight raids, text that screams with working-class fury and poetic intelligence. Subject: Preserve facial identity while embodying punk authenticity - safety pins as jewelry, clothing that tells stories of DIY ethics and anti-establishment politics, expression suggesting someone who refuses to be processed by society. Environment: Underground venues where music and politics merge, urban decay where beautiful resistance grows from social abandonment, spaces where authenticity matters more than comfort. Text: {{overlay_text}}. OUTPUT: Beautiful anarchy that makes viewers want to reject conformity and create something raw and true. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Creepster", "body": "Special Elite" },
+    "palette": { "primary": "#DC143C", "accent": "#FFD400", "background": "#000000", "text": "#FFFFFF" },
+    "layout_presets": [
+      { "layout_id": "spray-paint", "title_position": "anarchist-center", "overlay_style": "xerox-distortion" },
+      { "layout_id": "safety-pin", "title_position": "punk-bottom", "overlay_style": "torn-paper" }
+    ],
+    "seed_examples": [1976, 1977, 1982],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1977",
+    "description": "Raw rebellion where anger becomes art and DIY ethics burn through social conformity."
+  },
+  {
+    "id": "tropical-island-001",
+    "title": "Tropical Island Paradise",
+    "genre_tags": ["tropical", "island", "paradise", "beach", "vacation"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into TROPICAL PARADISE. Terrence Malick meets travel photography with light that tastes like coconut water. Banana-yellow (#FFD400) glows like eternal golden hour through palm fronds. Typography carved from driftwood dreams. Title: {{overlay_text}}. Preserve island serenity. Seed={{seed}}.",
+      "medium": "Create ISLAND TRANSCENDENCE from {{image_url}}. Visual vacation: Terrence Malick meets National Geographic in crystalline water meditation. Perfect lighting through tropical atmosphere, banana-yellow (#FFD400) warm as sunset cocktails on endless beaches. Subject becomes curator of paradise found. Typography flows like ocean waves. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are Terrence Malick's natural light poet merged with tropical photography mastery - create ISLAND PARADISE TRANSCENDENCE from {{image_url}}. PARADISE MANIFESTO: Cinematography that makes vacation permanent and paradise tangible. Lighting: Perfect tropical illumination - golden hour extended infinitely through crystal-clear atmosphere, banana-yellow (#FFD400) representing perpetual sunset warmth, natural light filtered through palm fronds creating dancing shadows on perfect sand. Color palette: Tropical saturation - turquoise waters, emerald palms, coral pinks, sunset oranges, with banana yellow as the sun that never sets on paradise. Composition: Subject positioned in spaces that define tropical perfection - pristine beaches, crystal-clear lagoons, palm-fringed coastlines where every angle suggests travel brochure paradise but with emotional depth. POST-PROCESSING: Crystal clarity that makes water look drinkable and air seem breathable, subtle warm filtration that suggests permanent golden hour, atmospheric depth that draws eyes toward infinite horizons. Typography: Relaxed script fonts that suggest handwritten postcards, letterforms that flow like gentle trade winds, text that integrates with natural elements like messages written in sand. Subject: Preserve facial identity while embodying tropical relaxation - expression suggesting someone who has found their personal paradise, dressed in flowing fabrics that catch tropical breezes, positioned in harmony with natural beauty. Environment: Tropical locations that define paradise - palm-lined beaches, crystal lagoons, sunset viewpoints where time moves at the speed of gentle waves. Text: {{overlay_text}}. OUTPUT: Visual vacation that makes viewers book flights to places where golden hour never ends. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Dancing Script", "body": "Lato" },
+    "palette": { "primary": "#00CED1", "accent": "#FFD400", "background": "#F0F8FF", "text": "#2E8B57" },
+    "layout_presets": [
+      { "layout_id": "sunset-horizon", "title_position": "golden-bottom", "overlay_style": "driftwood-carve" },
+      { "layout_id": "palm-shadow", "title_position": "tropical-center", "overlay_style": "ocean-flow" }
+    ],
+    "seed_examples": [1492, 1778, 2019],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1778",
+    "description": "Tropical perfection where golden hour never ends and paradise exists in every frame."
+  },
+  {
+    "id": "film-student-001",
+    "title": "Film Student Auteur",
+    "genre_tags": ["film-student", "auteur", "indie", "arthouse", "pretentious"],
+    "template_variants": {
+      "short": "Transform {{image_url}} into AUTEUR VISION. Wes Anderson meets film school pretension with symmetry that quotes Kubrick. Banana-yellow (#FFD400) references Antonioni while critiquing capitalism. Typography kerned by cinema studies majors. Title: {{overlay_text}}. Preserve intellectual superiority. Seed={{seed}}.",
+      "medium": "Create FILM STUDENT TRANSCENDENCE from {{image_url}}. Visual thesis: Paul Thomas Anderson meets undergraduate film theory in coffee shop conversations. Perfect lighting references every cinematographer ever, banana-yellow (#FFD400) symbolizes the golden ratio of cinematic truth. Subject becomes misunderstood artistic genius. Typography justified like academic papers. Text: {{overlay_text}}. Seed={{seed}}.",
+      "long": "You are every film school graduate's combined pretension channeled through legitimate cinematographic genius - create AUTEUR TRANSCENDENCE from {{image_url}}. FILM STUDENT MANIFESTO: Cinematography that makes every shot a thesis statement and every frame a film theory essay. Lighting: Hyperconscious illumination that references Tarkovsky, Kubrick, and Malick simultaneously while critiquing their patriarchal gaze, banana-yellow (#FFD400) representing the golden mean of cinematic truth but also commenting on capitalist excess. Color grading: Precise color science that quotes specific films while subverting their meaning, every hue choice justified by three-page academic papers. Composition: Perfect symmetry that makes Wes Anderson look chaotic, subject positioned using golden ratio calculations verified by slide rule, negative space filled with meaningful emptiness that references Antonioni's alienation themes. POST-PROCESSING: Film grain that specifically references 16mm Bolex footage, atmospheric depth that suggests both intimate character study and sweeping social commentary, practical lighting that makes every shadow a metaphor. Typography: Fonts chosen after extensive research into period-appropriate typography, letterforms that reference specific film movements, text positioned according to academic theories about visual hierarchy. Subject: Preserve facial identity while suggesting someone whose every expression contains multiple layers of meaning, positioned in spaces that simultaneously critique and celebrate bourgeois aesthetics. Environment: Coffee shops where film students solve cinema, libraries where Criterion Collection DVDs are religious texts, urban spaces that look accidentally perfect but are actually hyperconsciously composed. Text: {{overlay_text}}. OUTPUT: Visual thesis that makes viewers feel simultaneously educated and pretentious while secretly appreciating the genuine artistry hidden beneath the academic posturing. Seed={{seed}}."
+    },
+    "font_suggestion": { "display": "Playfair Display", "body": "Source Sans Pro" },
+    "palette": { "primary": "#2F4F4F", "accent": "#FFD400", "background": "#F5F5DC", "text": "#708090" },
+    "layout_presets": [
+      { "layout_id": "symmetrical-thesis", "title_position": "academic-center", "overlay_style": "criterion-spine" },
+      { "layout_id": "golden-ratio", "title_position": "pretentious-bottom", "overlay_style": "film-theory" }
+    ],
+    "seed_examples": [1962, 1975, 2001],
+    "author": "CinemaForge Pro", "public": true,
+    "coverImage": "https://picsum.photos/400/600?random=1962",
+    "description": "Academic pretension meets genuine artistry where every frame contains a film school thesis."
+  }
+]

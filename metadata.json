@@ -1,0 +1,5 @@
+{
+  "name": "Bananano Studios",
+  "description": "An AI-powered movie poster generator. Upload a portrait, select a genre, and let Gemini create a stunning, cinematic poster for you. Features AI-driven design analysis for custom styles.",
+  "requestFramePermissions": []
+}
