@@ -1,1 +1,22 @@
-{"prompts": []}
+[
+  {
+    "id": "movie-poster",
+    "title": "Movie Poster",
+    "description": "Hollywood blockbuster style",
+    "template_variants": {
+      "short": "Create a movie poster style image with dramatic lighting and bold text overlay",
+      "medium": "Transform this image into a cinematic movie poster with dramatic lighting, bold typography, and Hollywood-style composition. {{overlay_text}} Add film grain and professional poster aesthetics.",
+      "long": "Create a professional Hollywood movie poster from this image. Apply cinematic color grading with dramatic lighting and shadows. {{overlay_text}} Include bold, eye-catching typography that fits the genre. Add film grain, vignetting, and the polished aesthetic of a major studio release."
+    }
+  },
+  {
+    "id": "vintage-poster", 
+    "title": "Vintage Poster",
+    "description": "Retro propaganda style",
+    "template_variants": {
+      "short": "Create a vintage propaganda poster style image",
+      "medium": "Transform into a vintage propaganda poster with bold colors, strong contrast, and retro typography. {{overlay_text}}",
+      "long": "Create a vintage propaganda-style poster with bold, saturated colors and high contrast. {{overlay_text}} Use retro typography and classic poster composition with strong graphical elements."
+    }
+  }
+]
